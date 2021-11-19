@@ -1,0 +1,9 @@
+Package: PeakSeg
+Type: Package
+Title: Segment vectors according to Peaks
+Version: 1.0
+Date: 2021-11-19
+Author: PhD YF.WANG
+Maintainer: YF.WANG <wangyunfeng0317@live.com>
+Description: Given any numeric vector, this package helps find the breakpoints. It can be used for copy number variant (CNV) calling for instance.
+License: GPL (>= 3)
